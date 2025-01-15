@@ -43,7 +43,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ![Andre-nemesis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre-nemesis&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-nemesis&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andre-nemesis&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Andre-nemesis&theme=radical)
 
 ## 📚 Projects
