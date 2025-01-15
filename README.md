@@ -58,6 +58,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 ## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/andre-nemesis)
-- [Twitter](https://twitter.com/andre-nemesis)
+- [Instagram](https://www.instagram.com/_andre.csv/)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate or chat about tech.
