@@ -10,6 +10,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 - 📫 How to reach me: [andrecasimio@gmail.com](mailto:andrecasimio@gmail.com)
 - ⚡ Fun fact: I enjoy playing video games, watch animes, read books, mangás and make new friends
 
+## 🗺 Language
+- English -> B1
+- Spanish -> Beginner
+- Japanese -> Beginner
+
+## Courses and Certificates
+- [Python AI - BackEnd Developer](https://www.dio.me/certificate/8I0IOXXJ/share)
+
 ## 🛠️ Technologies & Tools
 
 - Languages: Python, JavaScript, PHP, Java
